@@ -1,4 +1,4 @@
-# Blind-Bacon
+# Blind Bacon - a target practice game made in Java
 
 Click the image to visit the Game page on itch.io
 
